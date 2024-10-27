@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Lobster&family=Open+Sans:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 * {
     margin: 0;
@@ -315,27 +314,5 @@ tr:nth-child(even) {
 tr:hover {
     background-color: #ddd;
 }
-/* فونت برای هدر */
-header {
-    font-family: 'Lobster', cursive;
-}
-
-/* فونت برای منو */
-nav {
-    font-family: 'Open Sans', sans-serif;
-}
-
-/* فونت برای محتوای اصلی */
-body, main, article, section {
-    font-family: 'Roboto', sans-serif;
-}
-
-/* فونت برای فوتر */
-footer {
-    font-family: 'Arial', sans-serif;
-}
-
-
-
 
 
